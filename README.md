@@ -1,6 +1,6 @@
 - 👋 Hi, my name is @YulianaVK
-- 👀 I’m interested in world music, sci-fi of all kind, comics & books
-- 🌱 I’m currently learning about cat behavior & aethology.
+- 👀 I’m interested in world music, sci-fi of all kind, comics & books.  Also in Data Analisis & management
+- 🌱 I’m currently learning about cat behavior & aethology, as well as coding, Python, R & Data.
 - 💞️ I’m looking to collaborate on ... I'm not very sure. But can be useful translating. Native level Bulgarian, Catalán, French & Spanish. And a full proficiency level of English
 - 📫 I guess you can reach me with a DM here.
 
